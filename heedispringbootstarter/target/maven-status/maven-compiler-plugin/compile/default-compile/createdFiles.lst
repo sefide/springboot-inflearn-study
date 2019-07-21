@@ -1,0 +1,5 @@
+META-INF/spring-autoconfigure-metadata.properties
+me/sefide/HolomanConfiguration.class
+META-INF/spring-configuration-metadata.json
+me/sefide/Holoman.class
+me/sefide/HolomanProperties.class

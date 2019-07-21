@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "me.sefide.HolomanProperties",
+      "name": "holoman",
+      "type": "me.sefide.HolomanProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "me.sefide.HolomanProperties",
+      "defaultValue": 0,
+      "name": "holoman.how-long",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "me.sefide.HolomanProperties",
+      "name": "holoman.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
